@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-class Solution {
+class TrainSolution {
 
     public static void main( String args[] ) throws IOException {
 
