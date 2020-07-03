@@ -10,6 +10,8 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 Level - Very Easy
 */
+
+//Pbm -1
 class TrainSolution {
 
     public static void main( String args[] ) throws IOException {
