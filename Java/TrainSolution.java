@@ -4,6 +4,16 @@ import java.io.* ;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
+/*
+Question URL
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/description
+
+
+
+Level - Very Easy
+*/
+
+//Pbm -1
 
 class TrainSolution {
 
