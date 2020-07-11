@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/
 void getPrimeNumbersTill(int number, int* primeNumbers){
    
    for(int i=0;i<number+1 ;i++){
