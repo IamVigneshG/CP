@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monsters-in-grid-1/
 int main()
 {
     int n, m, k, i, j, killed=0, maximum_killed=0;
